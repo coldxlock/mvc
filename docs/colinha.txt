@@ -1,0 +1,8 @@
+
+
+
+Essa aplicação possui:
+
+*MVC
+*Clean Code
+*Rotas
